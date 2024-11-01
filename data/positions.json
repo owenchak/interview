@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pos001",
+    "position_id": "P-0003204",
+    "title": "Engineer, manufacturing systems",
+    "status": "active",
+    "base_pay_currency": ["MRO", "Mauritanian ouguiya"],
+    "base_pay_amount": 1444
+  },
+  {
+    "id": "pos002",
+    "position_id": "P-0002681",
+    "title": "Market researcher",
+    "status": "active",
+    "base_pay_currency": ["AFN", "Afghan afghani"],
+    "base_pay_amount": 8308
+  },
+  {
+    "id": "pos003",
+    "position_id": "P-000557",
+    "title": "Conservation officer, historic buildings",
+    "status": "active",
+    "base_pay_currency": ["BRL", "Brazilian real"],
+    "base_pay_amount": 7535
+  },
+  {
+    "id": "pos004",
+    "position_id": "P-0006179",
+    "title": "Interpreter",
+    "status": "active",
+    "base_pay_currency": ["CUC", "Cuban convertible peso"],
+    "base_pay_amount": 3160
+  },
+  {
+    "id": "pos005",
+    "position_id": "P-0009388",
+    "title": "Horticulturist, amenity",
+    "status": "active",
+    "base_pay_currency": ["BZD", "Belize dollar"],
+    "base_pay_amount": 3126
+  },
+  {
+    "id": "pos006",
+    "position_id": "P-000502",
+    "title": "Special educational needs teacher",
+    "status": "active",
+    "base_pay_currency": ["LYD", "Libyan dinar"],
+    "base_pay_amount": 5092
+  },
+  {
+    "id": "pos007",
+    "position_id": "P-0009848",
+    "title": "Engineer, water",
+    "status": "active",
+    "base_pay_currency": ["JMD", "Jamaican dollar"],
+    "base_pay_amount": 1132
+  },
+  {
+    "id": "pos008",
+    "position_id": "P-0009329",
+    "title": "Technical sales engineer",
+    "status": "active",
+    "base_pay_currency": ["MZN", "Mozambican metical"],
+    "base_pay_amount": 1082
+  },
+  {
+    "id": "pos009",
+    "position_id": "P-0003884",
+    "title": "Housing manager/officer",
+    "status": "active",
+    "base_pay_currency": ["UZS", "Uzbekistani soʻm"],
+    "base_pay_amount": 1358
+  },
+  {
+    "id": "pos010",
+    "position_id": "P-0005751",
+    "title": "Social worker",
+    "status": "active",
+    "base_pay_currency": ["UGX", "Ugandan shilling"],
+    "base_pay_amount": 5815
+  }
+]
